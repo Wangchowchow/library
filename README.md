@@ -1,5 +1,5 @@
 # Library
-This is a web page of a library application.
+This is a book collection manager to add, remove, and check books.
 ## Created With
 * HTML
 * CSS
